@@ -1,0 +1,23 @@
+1	Aditya Ranjan	5.2	9.8	7.5	
+2	Aditi	5.4	6.8	6.1	
+3	Aditya Kumar	4.6	8.4	6.5	
+4	Gaurav Kumar	8.7	7.6	8.15	
+5	Shreya Kumari	7.4	9.1	8.25	
+6	Aakash Pathak	5.2	9.8	7.5	
+7	Vivek Gupta	8.7	9.1	8.9	
+8	Gautam Kumar	7.4	9.1	8.25	
+9	Abhinav sharma	7.9	5.1	6.5	
+10	Shlok Ranjan Trivedi	7.8	9.4	8.6	
+11	Rachit Raj	7.4	9.1	8.25	
+12	Shivam Sinha	5.2	9.8	7.5	
+13	Hanshika Sharma	6.8	8.0	7.4	
+14	Shubham Shrivastav	8.6	9.7	9.15	
+15	Pinku Prince	5.9	7.6	6.75	
+16	Varun Dhavan	7.5	6.9	7.2	
+17	Virat Kumar	8.4	9.1	8.75	
+18	Samir Aryan	6.4	6.5	6.45	
+19	Sidhhant Kumar	5.4	6.8	6.1	
+20	Roham Raj	7.8	9.4	8.6	
+21	Shantanu singh	8.4	7.4	7.9	
+22	Ayushman raj	6.8	7.9	7.35	
+23	Amir Aanand	5.8	8.9	7.35	
